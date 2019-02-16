@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="com.example.android.android_me.ui.MasterListFragment"
+    android:id="@+id/master_list_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</fragment>
+
+
+    <!--MasterListFragment该类直接在XML文件中标明了!无需在代码中重新申明-->
