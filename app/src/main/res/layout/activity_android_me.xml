@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.android.android_me.ui.AndoridMeActivity">
+    tools:context="com.example.android.android_me.ui.AndroidMeActivity">
 
     <LinearLayout
         android:id="@+id/activity_android_me_linear_layout"
