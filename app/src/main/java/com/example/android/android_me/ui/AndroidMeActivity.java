@@ -18,7 +18,7 @@ public class AndroidMeActivity extends AppCompatActivity {
         if (savedInstanceState == null) {
             // Create a new head BodyPartFragment
             BodyPartFragment headFragment = new BodyPartFragment();
-/* 测试一下上传的修改内容
+/* 测试11
  //Add the fragment to its container using a FragmentManager and a Transaction
         FragmentManager fragmentManager = getSupportFragmentManager();
         // Add the fragment to its container using a FragmentManager and a Transaction
